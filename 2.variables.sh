@@ -1,4 +1,4 @@
-person1 = manu
-perosn2 = ammu
-echo "Hi $person1"
-echo "Hi $person2"
+PERSON1=manu
+PERSON2=ammu
+echo "Hi $PERSON1"
+echo "Hi $PERSON2"
